@@ -2,11 +2,9 @@
 
 Je suis...
 
+🌱 apprentie développeuse SFCC chez [L'Occitane](https://fr.loccitane.com/)
 💻 en reconversion chez [Ada Tech School](https://adatechschool.fr/)  
-🌱 en train d'apprendre JavaScript, PHP/MySQL et React  
-💞️ motivée à découvrir TypeScript et Vue.js  
-👀 à la recherche d'une __alternance__ débutant en juin/juillet 2023  
-🏗️ en construction de [mon portfolio](https://morganelepine.github.io/)  
+🏗️ en construction de mon projet RNCP
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morganelepine&theme=discord_old_blurple)
