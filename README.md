@@ -4,7 +4,7 @@ Je suis...
 
 🌱 apprentie développeuse SFCC chez [L'Occitane](https://fr.loccitane.com/)  
 💻 en reconversion chez [Ada Tech School](https://adatechschool.fr/)  
-🏗️ en construction de mon projet RNCP
+🏗️ en construction de mon projet RNCP, un [gestionnaire de listes de cadeaux](https://github.com/morganelepine/Gift-list-manager)  
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morganelepine&theme=discord_old_blurple)
