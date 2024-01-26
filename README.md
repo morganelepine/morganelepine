@@ -1,4 +1,4 @@
-<h1>👋 Bienvenue</h1>
+<h3>👋 Bienvenue</h3>
 
 Je suis...
 
